@@ -2,7 +2,7 @@
 
 Fork of Recipe to build [`gaomd/ikev2-vpn-server`](https://registry.hub.docker.com/u/gaomd/ikev2-vpn-server/) Docker image.
 
-Recipe to build [`terminationshok/ikev2-vpn-server`](https://hub.docker.com/repository/docker/terminationshok/docker-ikev2-vpn-server/) Docker image.
+Recipe to build [`terminationshok/docker-ikev2-vpn-server`](https://hub.docker.com/repository/docker/terminationshok/docker-ikev2-vpn-server/) Docker image.
 
 ## Usage
 
